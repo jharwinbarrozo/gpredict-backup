@@ -1,0 +1,9 @@
+
+[Telemetry beacon]
+DOWN_LOW=437175000
+MODE=FSK9k6
+BAUD=9600
+
+[Transmitter]
+DOWN_LOW=2406000000
+MODE=FM

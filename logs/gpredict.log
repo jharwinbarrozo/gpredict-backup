@@ -1,0 +1,9 @@
+2019/11/14 09:03:20|3|sat_log_init: Session started
+2019/11/14 09:03:20|4|sat_cfg_load: Everything OK.
+2019/11/14 09:03:59|1|gtk-sat-map.c:842: Can not find clicked object (0) in hash table
+2019/11/14 09:13:35|2|tle-update.c:read_fresh_tle: Two different statuses for 25338 (NOAA 15) at the same time.
+2019/11/14 09:13:35|2|tle-update.c:read_fresh_tle: Two different statuses for 28654 (NOAA 18) at the same time.
+2019/11/14 09:13:35|2|tle-update.c:read_fresh_tle: Two different statuses for 33591 (NOAA 19) at the same time.
+2019/11/14 09:13:35|2|tle-update.c:read_fresh_tle: Two different statuses for 37849 (SUOMI NPP) at the same time.
+2019/11/14 09:13:35|2|tle-update.c:read_fresh_tle: Two different statuses for 43013 (NOAA 20) at the same time.
+2019/11/14 09:30:24|1|gtk-sat-map.c:842: Can not find clicked object (0) in hash table
