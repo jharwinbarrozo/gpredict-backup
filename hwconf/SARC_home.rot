@@ -5,5 +5,5 @@ AzType=0
 MinAz=0
 MaxAz=360
 MinEl=0
-MaxEl=180
+MaxEl=90
 AzStopPos=0
