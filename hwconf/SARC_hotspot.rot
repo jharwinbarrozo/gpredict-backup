@@ -1,9 +1,9 @@
 [Rotator]
-Host=192.168.1.22
+Host=192.168.43.140
 Port=4533
 AzType=0
 MinAz=0
 MaxAz=360
 MinEl=0
-MaxEl=180
+MaxEl=90
 AzStopPos=0
