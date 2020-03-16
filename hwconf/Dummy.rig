@@ -1,0 +1,10 @@
+[Radio]
+Host=localhost
+Port=4532
+LO=0
+LO_UP=0
+Type=1
+PTT=0
+Cycle=0
+SIGNAL_AOS=false
+SIGNAL_LOS=false
