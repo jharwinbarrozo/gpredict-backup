@@ -1,0 +1,16 @@
+
+[Mode-B Transponder]
+UP_LOW=435030
+UP_HIGH=435180
+DOWN_LOW=145825
+DOWN_HIGH=145975
+MODE=LSB
+INVERT=true
+
+[Engineering Beacon]
+DOWN_LOW=145987000
+MODE=CW
+
+[Beacon (unmodulated carrier)]
+DOWN_LOW=145810000
+MODE=CW

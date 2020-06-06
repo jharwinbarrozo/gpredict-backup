@@ -5,6 +5,6 @@ LO=0
 LO_UP=0
 Type=0
 PTT=0
-Cycle=300
+Cycle=100
 SIGNAL_AOS=false
 SIGNAL_LOS=false

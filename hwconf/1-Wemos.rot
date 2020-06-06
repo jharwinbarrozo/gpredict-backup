@@ -1,0 +1,11 @@
+[Rotator]
+Host=localhost
+Port=4599
+AzType=0
+MinAz=0
+MaxAz=360
+MinEl=0
+MaxEl=90
+AzStopPos=0
+Cycle=500
+Threshold=1
